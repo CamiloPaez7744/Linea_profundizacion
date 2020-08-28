@@ -10,6 +10,6 @@ public class ejemplo{
         System.out.println("digite el numero 2");
         n2=t.nextInt();
         r=n/n2;
-        System.out.println("Division="+r);
+        System.out.println("Division="+r);//Division
     }
 }
