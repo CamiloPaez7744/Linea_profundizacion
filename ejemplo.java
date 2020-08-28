@@ -2,6 +2,7 @@ package Linea_profundizacion;
 import java.util.Scanner;
 
 public class ejemplo{
+    //Comentario de Disvision
     public static void main(String[]args){
         Scanner t=new Scanner(System.in);
         int n,n2,r;
