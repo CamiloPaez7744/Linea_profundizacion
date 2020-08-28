@@ -9,7 +9,7 @@ public class ejemplo{
         n=t.nextInt();
         System.out.println("digite el numero 2");
         n2=t.nextInt();
-        r=n+n2;
-        System.out.println("suma="+r);
+        r=n/n2;
+        System.out.println("Division="+r);
     }
 }
